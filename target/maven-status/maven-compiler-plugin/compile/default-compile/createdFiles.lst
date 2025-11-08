@@ -1,0 +1,3 @@
+com\fintech\payments\controller\GeneralTransferController.class
+com\fintech\payments\PaymentsPaymentcoreServiceApplication.class
+com\fintech\payments\service\GeneralTransferService.class
