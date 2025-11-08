@@ -1,4 +1,4 @@
-package com.fintech.payments;
+package com.fintech.cards;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

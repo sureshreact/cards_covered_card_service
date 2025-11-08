@@ -1,13 +1,10 @@
-package com.fintech.payments.controller;
-
-import java.math.BigDecimal;
+package com.fintech.cards.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.fintech.payments.service.GeneralTransferService;
+import com.fintech.cards.service.GeneralTransferService;
 
 @RestController
 public class GeneralTransferController {

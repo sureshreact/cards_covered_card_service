@@ -1,4 +1,4 @@
-package com.fintech.payments.service;
+package com.fintech.cards.service;
 
 import org.springframework.stereotype.Service;
 
