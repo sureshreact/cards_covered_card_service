@@ -15,6 +15,7 @@ public class GeneralTransferController {
 	
 	@GetMapping("/start")
 	public String getAmount() {
+		
 		return "Hi spring boot project";
 
 	}
